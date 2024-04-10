@@ -1,7 +1,5 @@
 # Workshop 1: Creación de Calculadora con Vue.js
 
-![Foxy](../images/header.png)
-
 En este taller, desarrollaremos una Calculadora Simple en Vue.js para aprender los fundamentos de la librería.
 
 Al final del desarrollo de la aplicación, alojaremos nuestra aplicación utilizando Azure App Service.
